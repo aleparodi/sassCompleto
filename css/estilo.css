@@ -83,7 +83,9 @@ body {
 
 .imagenGaleria {
   height: 200px;
-  width: 90%; }
+  width: 90%;
+  padding: 10px;
+   margin-left: 10px;}
 
 .imagenGaleria:hover {
   filter: grayscale(100%); }
